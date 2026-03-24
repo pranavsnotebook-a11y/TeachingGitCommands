@@ -1,4 +1,4 @@
 // auth.js
 function login() {
-  return "login v1";
+  return "login v2 improved";
 }
