@@ -1,5 +1,4 @@
-
 // db.js
 function connect() {
-  return "db v1";
+  return "db v2 optimized";
 }
